@@ -1,0 +1,22 @@
+{
+  "name": "hexlet_brain_games",
+  "version": "1.0.0",
+  "description": "Hexlet project",
+  "main": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "brain": "src/bin/brain-games.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DarksomeV/frontend-project-lvl1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DarksomeV/frontend-project-lvl1/issues"
+  },
+  "homepage": "https://github.com/DarksomeV/frontend-project-lvl1#readme"
+}
