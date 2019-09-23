@@ -1,4 +1,4 @@
 #!/usr/bin/env node
-import startWelcomeGame from '..'
+import startWelcomeGame from '..';
 
 startWelcomeGame();
